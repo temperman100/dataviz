@@ -1,3 +1,4 @@
 # Hello hello
 
-## Name: #Jo
+## Name: Jo 
+サッカーをやってました。音楽を聴くのが好きです。
